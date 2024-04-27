@@ -1,4 +1,4 @@
-![logo](https://github.com/engineer-bisharat-ali/engineer-bisharat-ali/blob/main/images.jpg)
+![logo](https://github.com/engineer-bisharat-ali/engineer-bisharat-ali/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Bisharat Ali</h1>
 <h3 align="center">A passionate Android developer from Pakistan</h3>
