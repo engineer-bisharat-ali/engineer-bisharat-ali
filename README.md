@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **engineer.bisharatali@gamil.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/Bisharatali](https://tinyurl.com/Bisharatali)
 
 - ⚡ Fun fact **The hobby I could never give up is Cricket**
 
