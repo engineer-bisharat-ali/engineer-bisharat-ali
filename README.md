@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/main/android-developer2.jpg" alt="logo" style="width: 100%;">
+    <img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/main/android-developer7.jpg" alt="logo">
 </div>
 
 
@@ -25,15 +25,12 @@
  
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; width: 49%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineer-bisharat-ali&theme=solarized-light&hide_border=false" alt="GitHub Streak Stats" style="height: 200px; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; width: 48%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineer-bisharat-ali&theme=solarized-light&hide_border=false" alt="GitHub Streak Stats" style="height: 200px; width: 48%;">
 </div>
-<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 40%;">
 </div>
-
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=engineer-bisharat-ali&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
