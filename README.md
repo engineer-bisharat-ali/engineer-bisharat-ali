@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-# 💫 About Me: 
+## 💫 About Me: 
 🌱 I’m currently learning **Android Development , Kotlin** <br>🔭 I’m currently working on **Android Project** <br>💬 Ask me about **Android** <br>⚡ Fun fact **The hobby I could never give up is Cricket**
 <br>
 <br>
@@ -24,16 +24,16 @@
  <br>
  
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-bisharat-ali&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=engineer-bisharat-ali&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-bisharat-ali&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=engineer-bisharat-ali&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
