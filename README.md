@@ -24,13 +24,13 @@
  <br>
  
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; width: 48%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineer-bisharat-ali&theme=solarized-light&hide_border=false" alt="GitHub Streak Stats" style="height: 200px; width: 48%;">
-</div>
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=engineer-bisharat-ali&theme=solarized-light&hide_border=false)
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-bisharat-ali&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 40%;">
-</div>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=engineer-bisharat-ali&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
