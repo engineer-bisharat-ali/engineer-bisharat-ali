@@ -15,7 +15,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Android Developer Enthusiast with a huge love for Kotlin, Java, Google Cloud, Firebase and more.</p>
+<p align="left">I am a Flutter Developer Enthusiast..</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning Flutter Development,
@@ -57,7 +57,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,html,css,,androidstudio,git,github,postman,googlecloud,mysql&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,html,css,androidstudio,git,github,postman,googlecloud,mysql,vscode&perline=11"  />
 </p>
 <br />
 
