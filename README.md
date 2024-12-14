@@ -1,8 +1,4 @@
 <!--Banner-->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/refs/heads/main/fluterr%20banner.jpg">
-</div>
-
 
 <!--Night Owl image-->
 <div>
@@ -10,7 +6,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Bɪsʜᴀʀᴀᴛ Aʟɪ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Bɪsʜᴀʀᴀᴛ Aʟɪ
 *(Developer / Programmer)*
 <br /> 
 
