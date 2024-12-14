@@ -1,6 +1,6 @@
 <!--Banner-->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/main/android-developer7.jpg" alt="logo">
+    <img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/refs/heads/main/flutter_banner1.jpg">
 </div>
 
 
@@ -18,9 +18,9 @@
 <p align="left">I am a Android Developer Enthusiast with a huge love for Kotlin, Java, Google Cloud, Firebase and more.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning Android Development, Kotlin
-- 🔭 I’m currently working on an Android Project
-- 💬 Ask me about Android
+- 🌱 I’m currently learning Flutter Development,
+- 🔭 I’m currently working on an Flutter Project
+- 💬 Ask me about anything
 - ⚡ Fun fact: The hobby I could never give up is Cricket
 <!--End Intro-->
 
@@ -57,7 +57,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=kotlin,java,html,css,firebase,androidstudio,git,github,postman,googlecloud,mysql&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,html,css,,androidstudio,git,github,postman,googlecloud,mysql&perline=11"  />
 </p>
 <br />
 
