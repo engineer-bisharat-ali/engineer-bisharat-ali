@@ -57,7 +57,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,html,css,androidstudio,git,github,postman,googlecloud,mysql,vscode&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,vscode,androidstudio,git,github,postman,googlecloud&perline=11"  />
 </p>
 <br />
 
