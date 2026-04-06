@@ -10,124 +10,61 @@
 
 ---
 
-<div align="center">
-  <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
-
-## 🚀 **About Me**
-
-<div align="left">
-
-```dart
-class BisharatAli {
-  final String name = "Bisharat Ali";
-  final String title = "Mobile App Developer";
-  final String location = "Pakistan 🇵🇰";
-  
-  final Map<String, dynamic> currentlyWorking = {
-    'role': 'Flutter Developer',
-    'focus': ['Cross-platform Apps', 'UI/UX Design', 'Firebase Integration']
-  };
-  
-  final Map<String, List<String>> technologies = {
-    'mobile': ['Flutter', 'Dart', 'Android', 'iOS'],
-    'backend': ['Firebase', 'Google Cloud', 'REST APIs'],
-    'database': ['Firestore', 'SQLite', 'Hive'],
-    'tools': ['Git', 'VS Code', 'Android Studio', 'Figma']
-  };
-  
-  final List<String> currentlyLearning = [
-    'Advanced Flutter', 
-    'Clean Architecture', 
-    'Bloc Pattern'
-  ];
-  
-  final List<String> hobbies = ['Cricket 🏏', 'Tech Blogs', 'Open Source'];
-  final String challenge = "Building the next big mobile app! 📱";
-}
-```
-
-</div>
-
-<br clear="both"/>
-
----
 
 <div align="center">
 
-## ⚡ **Tech Stack & Tools**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,vscode,git,github,figma,postman,gcp&theme=dark&perline=6" />
+## 🧑‍💻 About Me
 
 </div>
-
----
-
-<div align="center">
-
-## 📊 **GitHub Analytics Dashboard**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=engineer-bisharat-ali&custom_title=Bisharat's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=engineer-bisharat-ali&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&border_color=667eea" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=engineer-bisharat-ali&theme=tokyonight&background=0D1117&border=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-bisharat-ali&layout=donut&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea" />
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=engineer-bisharat-ali&theme=discord&no-bg=true&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 **Featured Projects & Repositories**
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineer-bisharat-ali&repo=SynCare-App&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea" />
+    <td width="50%">
+      <table>
+        <tr>
+          <td>👨‍💻</td>
+          <td><strong>Name</strong></td>
+          <td>Bisharat Ali</td>
+        </tr>
+        <tr>
+          <td>🌍</td>
+          <td><strong>Location</strong></td>
+          <td>Karchi, Pakistan 🇵🇰</td>
+        </tr>
+        <tr>
+          <td>💼</td>
+          <td><strong>Role</strong></td>
+          <td>Flutter Developer</td>
+        </tr>
+        <tr>
+          <td>🎯</td>
+          <td><strong>Focus</strong></td>
+          <td>Mobile App development . UI/UX</td>
+        </tr>
+        <tr>
+          <td>🌱</td>
+          <td><strong>Learning</strong></td>
+          <td>Clean Architecture · Getx · Testing</td>
+        </tr>
+        <tr>
+          <td>🏏</td>
+          <td><strong>Hobbies</strong></td>
+          <td>Cricket · Tech Blogs · Open Source</td>
+        </tr>
+        <tr>
+          <td>🚀</td>
+          <td><strong>Goal</strong></td>
+          <td>Building the next big mobile app!</td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineer-bisharat-ali&repo=news_app&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineer-bisharat-ali&repo=Covid_19_Tracker_App&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineer-bisharat-ali&repo=GroceryMart&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea" />
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
     </td>
   </tr>
 </table>
-
-⭐ **More repositories available in my profile!**
-
-</div>
 
 </div>
 
@@ -135,7 +72,37 @@ class BisharatAli {
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate**
+## ⚡ Tech Stack & Tools
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,vscode,git,github,figma,postman,gcp&theme=dark&perline=6" />
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=engineer-bisharat-ali&theme=tokyonight&background=0D1117&border=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=engineer-bisharat-ali&custom_title=Bisharat's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+</div>
 
 <table align="center">
   <tr>
@@ -162,21 +129,13 @@ class BisharatAli {
   </tr>
 </table>
 
-</div>
+---</div>
 
 ---
 
 <div align="center">
 
-## 💡 **Daily Motivation**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 📈 **Detailed Profile Analysis**
 
@@ -206,34 +165,60 @@ class BisharatAli {
 ---
 <div align="center">
 
-## 🌟 **What I'm Up To**
+## 💡 **Daily Motivation**
 
-```dart
-class BisharatAli extends FlutterDeveloper {
-  final String currentStatus = "Building amazing mobile apps 🚀";
-  final List<String> currentlyLearning = [
-    "Advanced Flutter Patterns",
-    "Clean Architecture", 
-    "Firebase Advanced Features",
-    "Flutter Testing"
-  ];
-  
-  @override
-  void buildCoolStuff() {
-    while (learning) {
-      code();
-      debug();
-      deploy();
-      repeat();
-    }
-  }
-}
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
+<div align="center">
+
+<div align="center">
+
+## 🌟 What I'm Up To
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+      <br/><br/>
+      <strong>Currently Building</strong>
+      <br/>
+      Amazing mobile apps 🚀
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Learning-Advanced_Flutter-667eea?style=for-the-badge&logo=flutter&logoColor=white" />
+      <br/><br/>
+      <strong>Deep Diving Into</strong>
+      <br/>
+      Clean Architecture · Bloc
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Exploring-Firebase_Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <br/><br/>
+      <strong>Also Exploring</strong>
+      <br/>
+      Firebase · Flutter Testing
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Goal-Next_Big_App-764ba2?style=for-the-badge&logo=target&logoColor=white" />
+      <br/><br/>
+      <strong>End Goal</strong>
+      <br/>
+      Ship something great 🎯
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 <div align="center">
 
 ## 🚀 **Thank You for Visiting!**
